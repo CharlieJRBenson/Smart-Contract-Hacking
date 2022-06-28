@@ -21,7 +21,7 @@ Link to each level's solutions below:
 
 [6 - Delegation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Delegation)
 
-[7 - Force]()
+[7 - Force](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Force)
 
 [8 - Vault]()
 
