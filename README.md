@@ -7,6 +7,8 @@ Reference the level instructions at the following link:
 
 [OpenZeppelin Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
 
+Link to each level's solutions below:
+
 [1 - Fallback](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallback)
 
 [2 - Fallout](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallout)
