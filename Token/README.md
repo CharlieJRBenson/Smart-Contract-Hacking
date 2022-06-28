@@ -4,6 +4,8 @@ There is no condition/safemath functions/check before performing mathematical ca
 
 Therefore to expoit this contract, I need to transfer more tokens than I have.
 
+### Steps
+
 Find out how many tokens I have. 
 ```await contract.balanceOf(player)```
 
