@@ -7,6 +7,7 @@ Contract ```Delegation{}``` uses ```delegatecall(msg.data)``` which calls Contra
 I create a transaction to trigger ```Delegation{}``` fallback, with ```msg.data``` containing a call to ```pwn()```. 
 Since the call is via the ```Delegation{}``` contract and storage, it will gain us access to ownership of ```Delegation{}```.
 
+### Steps
 Check current ownership. 
 ```await contract.owner()```
 
