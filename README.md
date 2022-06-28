@@ -19,7 +19,7 @@ Link to each level's solutions below:
 
 [5 - Token](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Token)
 
-[6 - Delegation]()
+[6 - Delegation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Delegation)
 
 [7 - Force]()
 
