@@ -16,4 +16,4 @@ Then call ```selfDest()``` and it will destroy the malicious contract, sending i
 
 Now check balance of ```Force``` Contract using it's address.
 
-```getBalance(0x72066485510a2C57880802CB10134153886fE88c)```
+```getBalance("0x72066485510a2C57880802CB10134153886fE88c")```
