@@ -26,5 +26,5 @@ Now call ```unlock()``` function with the password.
 
 Check contract is unlocked.
 
-```contract.locked()``` returns ```false```
+```contract.locked()``` now returns ```false```
 

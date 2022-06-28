@@ -23,7 +23,7 @@ Link to each level's solutions below:
 
 [7 - Force](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Force)
 
-[8 - Vault]()
+[8 - Vault](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Vault)
 
 [9 - King]()
 
