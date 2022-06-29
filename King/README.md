@@ -1,10 +1,10 @@
-This contract transfers the current prize to the new highest bidder for Kingship. I created a contract that cannot receive this prize.
+This contract transfers the current prize (and Kingship) to the new highest bidder for Kingship. I created a malicious contract that cannot receive this prize.
 
 ```KingHack{}``` has function ```becomeKing(address _to)``` to trigger the ```King{}``` contract's ```recieve()``` fallback function.
 
-```KingHack{}``` has no recieve() fallback function. So ```king.transfer(msg.value)``` will fail. 
+```KingHack{}``` has no ```recieve()``` fallback function. So the ```king.transfer(msg.value)``` line, will fail. 
 
-Kingship will be transferred to our malicious contract and the attempt to regain Kingship will fail.
+Kingship will still be transferred to our malicious contract and the attempt to regain Kingship will fail due to the ```contract.prize()``` inaccuracy.
 
 
 ### Steps

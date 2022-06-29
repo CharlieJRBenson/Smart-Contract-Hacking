@@ -25,7 +25,7 @@ Link to each level's solutions below:
 
 [8 - Vault](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Vault)
 
-[9 - King]()
+[9 - King](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/King)
 
 [10 - Re-entrancy]()
 
