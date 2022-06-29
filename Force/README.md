@@ -1,3 +1,11 @@
+### Task
+
+>Some contracts will simply not take your money ¯\_(ツ)_/¯
+>
+>The goal of this level is to make the balance of the contract greater than zero.
+
+### Observations
+
 Force.sol is an empty contract with no payable fallback function.
 
 However I can still send it ether by self destructing a contract with a balance. 

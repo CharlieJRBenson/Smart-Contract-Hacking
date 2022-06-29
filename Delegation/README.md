@@ -1,3 +1,9 @@
+### Task
+
+>The goal of this level is for you to claim ownership of the instance you are given.
+
+### Observations
+
 Two contracts. Both store owner address in storage of the contract.
 
 Contract ```Delegation{}``` uses ```delegatecall(msg.data)``` which calls Contract ```Delegate{}``` with its own storage. 
