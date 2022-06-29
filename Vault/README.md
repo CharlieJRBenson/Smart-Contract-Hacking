@@ -1,3 +1,9 @@
+### Task 
+
+>Unlock the vault to pass the level!
+
+### Observations
+
 This contract is locked unless function ```unlock(bytes32 _password)``` is called with the correct password.
 
 The correct password is stored as a private bytes32 variable in the contract storage.
