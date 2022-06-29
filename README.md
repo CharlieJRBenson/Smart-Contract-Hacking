@@ -1,5 +1,5 @@
 # SmartContractHacking
-OpenZeppelin Ethernaut Smart Contract Hacking Challenge levels, and **HOW I BEAT THEM**.
+OpenZeppelin Ethernaut Smart Contract Hacking Challenge levels, and **HOW I HACKED THEM**.
 
 Folder for each level, along with my explanation and malicious contracts.
 
