@@ -12,7 +12,7 @@ Kingship will still be transferred to our malicious contract and the attempt to 
 Find out the value of current prize.
 ```await contract.prize()```
 
-Using Remix, on malicious contract, Call ```becomeKing()``` with the instance address, and ```msg.value``` of ```1000000000000000 Wei``` (= contract.prize).
+Using Remix on the malicious contract, call ```becomeKing()``` with the instance address, and ```msg.value``` of ```1000000000000000 Wei``` (= contract.prize).
 
 Check Prize and check King is changed to malicious contract address.
 ```await contract.prize()```
