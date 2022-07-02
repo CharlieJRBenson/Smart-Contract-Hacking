@@ -2,15 +2,12 @@
 The goal of this level is for you to steal all the funds from the contract.
 
 ### Observations
-This contract makes the critical error of transfering funds to a user before altering the users balance.
+This contract makes the critical error of transfering funds to a user before altering the users balance. As solidity runs in a single threaded procedural process, this can be exploited through a malicious "Re-entrancy" contract.
 
-As solidity runs in a single threaded procedural process, this can be exploited through a malicious "Re-entrancy" contract.
 
 To allow my withdraw request to pass the condition, I must hold a balance on the ```Reentrance{}``` contract.
 
-Upon recieving any funds without any call data, our malicious contract's fallback function with be triggered.
-
-Recursively calling ```withdraw()``` on the ```Reentrance{}``` contract, all before our balance can ever be updated.
+Upon recieving any funds without any call data, our malicious contract's fallback function with be triggered, recursively calling ```withdraw()``` on the ```Reentrance{}``` contract, all before our balance can ever be updated.
 
 This recursive loop will continue until all of the contract's funds are drained.
 
