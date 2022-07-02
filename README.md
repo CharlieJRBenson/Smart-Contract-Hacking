@@ -1,13 +1,13 @@
 # SmartContractHacking
 OpenZeppelin Ethernaut Smart Contract Hacking Challenge levels, and **HOW I HACKED THEM**.
 
-Folder for each level, along with my explanation and malicious contracts.
+Folder for each level, along with the task, my explanation and my malicious contracts.
 
-Reference the level instructions at the following link:
+Otherwise Reference the level instructions at the following link:
 
 [OpenZeppelin Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
 
-Link to each level's solutions below:
+### Level's and Solutions below:
 
 [1 - Fallback](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallback)
 
@@ -27,7 +27,7 @@ Link to each level's solutions below:
 
 [9 - King](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/King)
 
-[10 - Re-entrancy]()
+[10 - Re-entrancy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Re-entrancy)
 
 [11 - Elevator]()
 
