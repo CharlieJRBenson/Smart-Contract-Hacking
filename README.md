@@ -1,4 +1,4 @@
-# SmartContractHacking
+# Smart Contract Hacking and Exploits
 OpenZeppelin Ethernaut Smart Contract Hacking Challenge levels, and **HOW I HACKED THEM**.
 
 Folder for each level, along with the task, my explanation and my malicious contracts.
