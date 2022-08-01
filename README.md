@@ -33,7 +33,7 @@ Otherwise Reference the level instructions at the following link:
 
 [12 - Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy)
 
-[13 - Gatekeeper One](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[13 - Gatekeeper One](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/GatekeeperOne)
 
 [14 - Gatekeeper Two](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
