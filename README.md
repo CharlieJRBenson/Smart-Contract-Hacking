@@ -31,7 +31,7 @@ Otherwise Reference the level instructions at the following link:
 
 [11 - Elevator](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Elevator)
 
-[12 - Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[12 - Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy)
 
 [13 - Gatekeeper One](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
