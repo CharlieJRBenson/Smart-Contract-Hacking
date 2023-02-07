@@ -16,7 +16,20 @@
 
 - `gateThree` can be passed when the... uint64 type casted, bytes8 of the hash of the encoded msg.sender address.... XOR 's with a gatekey to = all 1's in uint64.
 
+This is a reverse engineerable operations. Because A XOR B = C and A XOR C = B.
+
 ### Steps
 
+- `gateOne` passed when we call contract through our own contract.
+
+- `gateThree` passed when 
+
+`uint64(bytes8(keccak256(abi.encodePacked(msg.sender)))) ^ uint64(_gateKey) == type(uint64).max`
+
+Because of A xor B = C and A xor C = B. We do:
+
+`uint64(_gateKey) = uint64(bytes8(keccak256(abi.encodePacked(msg.sender)))) ^ type(uint64).max`
+
+- `gateTwo` we do all this in the constructor of our contract so it runs once on deploy.
 
 
