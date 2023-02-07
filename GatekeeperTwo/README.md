@@ -10,5 +10,13 @@
 
 ### Observations 
 
+- `gateOne` can be passed when the tx caller is a smart contract. Since `msg.sender != tx.origin`.
+
+- `gateTwo` can be passed when the tx caller smart contract has a `extcodesize` of 0. This is achievable when the malicious caller contract makes it's calls from the constructor.
+
+- `gateThree` can be passed when the... uint64 type casted, bytes8 of the hash of the encoded msg.sender address.... XOR 's with a gatekey to = all 1's in uint64.
+
+### Steps
+
 
 
