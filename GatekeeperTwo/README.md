@@ -28,7 +28,7 @@ This is a reverse engineerable operations. Because A XOR B = C and A XOR C = B.
 
 Because of A xor B = C and A xor C = B. We do:
 
-`uint64(_gateKey) = uint64(bytes8(keccak256(abi.encodePacked(msg.sender)))) ^ type(uint64).max`
+`bytes8 _gateKey = bytes8(uint64(bytes8(keccak256(abi.encodePacked(address(this))))) ^ type(uint64).max)`
 
 - `gateTwo` we do all this in the constructor of our contract so it runs once on deploy.
 
