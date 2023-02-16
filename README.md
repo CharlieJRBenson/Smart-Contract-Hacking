@@ -37,7 +37,7 @@ Otherwise Reference the level instructions at the following link:
 
 [14 - Gatekeeper Two](https://github.com/CharlieJRBenson/Smart-Contract-Hacking/tree/main/GatekeeperTwo)
 
-[15 - Naught Coin](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[15 - Naught Coin](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/NaughtCoin)
 
 [16 - Preservation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
