@@ -9,6 +9,10 @@
 
 ### Observations 
 
-### Steps
+- Initially this looks like a poorly implemented ERC20 token, not following the EIP-20 Standards.
+- The `lockTokens` modifier applies only under the condition where the `msg.sender` is the `player`. This could be exploited through 3rd party transfer using `approve()`.
 
+
+### Steps
+- We must create an instance of the token contract on Remix, by compiling any ERC20 and then we can play with the standard functions.
 
