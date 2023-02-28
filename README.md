@@ -9,54 +9,60 @@ Otherwise Reference the level instructions at the following link:
 
 ### Level's and Solutions below:
 
-[1 - Fallback ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallback)
+Level - Difficulty - Name
 
-[2 - Fallout ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallout)
+[1 - 1/5 - Fallback ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallback)
 
-[3 - Coin Flip ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/CoinFlip)
+[2 - 1/5 - Fallout ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Fallout)
 
-[4 - Telephone ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Telephone)
+[3 - 2/5 - Coin Flip ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/CoinFlip)
 
-[5 - Token ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Token)
+[4 - 1/5 - Telephone ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Telephone)
 
-[6 - Delegation ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Delegation)
+[5 - 2/5 - Token ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Token)
 
-[7 - Force ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Force)
+[6 - 2/5 - Delegation ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Delegation)
 
-[8 - Vault ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Vault)
+[7 - 3/5 - Force ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Force)
 
-[9 - King ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/King)
+[8 - 2/5 - Vault ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Vault)
 
-[10 - Re-entrancy ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Re-entrancy)
+[9 - 3/5 - King ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/King)
 
-[11 - Elevator ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Elevator)
+[10 - 3/5 - Re-entrancy ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Re-entrancy)
 
-[12 - Privacy ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy)
+[11 - 2/5 - Elevator ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Elevator)
 
-[13 - Gatekeeper One ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/GatekeeperOne)
+[12 - 4/5 - Privacy ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy)
 
-[14 - Gatekeeper Two ✅](https://github.com/CharlieJRBenson/Smart-Contract-Hacking/tree/main/GatekeeperTwo)
+[13 - 3/5 - Gatekeeper One ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/GatekeeperOne)
 
-[15 - Naught Coin ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/NaughtCoin)
+[14 - 3/5 - Gatekeeper Two ✅](https://github.com/CharlieJRBenson/Smart-Contract-Hacking/tree/main/GatekeeperTwo)
 
-[16 - Preservation ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Preservation)
+[15 - 3/5 - Naught Coin ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/NaughtCoin)
 
-[17 - Recovery ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[16 - 4/5 - Preservation ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Preservation)
 
-[18 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[17 - 3/5 - Recovery ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[19 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[18 - 3/5 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[20 - Denial ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[21 - Shop ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[20 - 3/5 - Denial ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[22 - Dex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[21 - 2/5 - Shop ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[23 - Dex Two ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[22 - 2/5 - Dex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[24 - Puzzle Wallet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[23 - 2/5 - Dex Two ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[25 - Motorbike ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[24 - 4/5 - Puzzle Wallet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
-[26 - DoubleEntryPoint ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[25 - 3/5 - Motorbike ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+
+[26 - 2/5 - DoubleEntryPoint ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+
+[27 - 3/5 - Good Samaritan ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+
+[28 - 3/5 - Gatekeeper Three ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
