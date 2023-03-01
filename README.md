@@ -43,7 +43,7 @@ Level - Difficulty - Name
 
 [16 - 4/5 - Preservation ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Preservation)
 
-[17 - 3/5 - Recovery ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[17 - 3/5 - Recovery ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Recovery)
 
 [18 - 3/5 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
