@@ -45,7 +45,7 @@ Level - Difficulty - Name
 
 [17 - 3/5 - Recovery ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Recovery)
 
-[18 - 3/5 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[18 - 3/5 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/MagicNumber)
 
 [19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
 
