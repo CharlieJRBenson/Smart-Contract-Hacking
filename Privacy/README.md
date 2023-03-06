@@ -14,7 +14,7 @@
 
 ### Observations
 
-This contract stored the `unlock()` function key in index=2 of the `bytes32[3] private data;` array. We can access this through the web3js method `getStorageAt()`even when it's a private variable.
+This contract stored the `unlock()` function key in index=2 of the `bytes32[3] private data;` array. We can access this through the web3js method `getStorageAt()`**even** when it's a private variable.
 
 Solidity storage slots are of 32bytes capacity. Discover which index storage slot data[2] is stored, and we have the key.
 
@@ -30,6 +30,7 @@ Therefore `locked` + `flattening` + `denomination` + `awkwardness` are in Slot i
 
 
 ### Steps
+In console:
 
 `contract.locked` returns true.
 
