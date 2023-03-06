@@ -83,13 +83,13 @@ return        // in hex -> F3
 - Which has a size of 12 bytes, or `0x0c` therefore the runtime opcodes start at position `0x0c`. Therefore the `..`or`f` value is `0c`. 
 - The final total bytecode therefore looks like this (first 12bytes = init, last 10bytes = runtime):
 ```
-600a600c600039600a6000F3604260505260206050F3
+0x600a600c600039600a6000F3604260505260206050F3
 ```
 
 In console:
 
 ```
-web3.eth.sendTransaction({from: "*MyAddress*", data: "600a600c600039600a6000F3604260505260206050F3"}, function(err,result){console.log(result)});
+web3.eth.sendTransaction({from: "*MyAddress*", data: "0x600a600c600039600a6000F3604260505260206050F3"}, function(err,result){console.log(result)});
 ```
 
 - Then get the newly deployed contract address from etherscan.
