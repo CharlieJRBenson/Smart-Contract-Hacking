@@ -25,20 +25,28 @@ Good luck!
 
 ### Steps
 
+#### Runtime Bytecode
+
 - Store using `mstore(p,v)`, a value(`v = 0x42`) in an arbitrary memory position (`p = 0x10`):
 
 ```
-v: push1 0x42
-p: push1 0x10
-mstore
+v: push1 0x42 // in hex -> 6042
+p: push1 0x10 // in hex -> 6010
+mstore        // in hex -> 52
 ```
 
 - Return the value stored at `0x10`, specifying the size `0x20`:
 
 ```
-s: push1 0x20
-p: push1 0x10
-return
+s: push1 0x20 // in hex -> 6020
+p: push1 0x10 // in hex -> 6010
+return        // in hex -> F3
 ```
 
-- The bytecode sequence should be `604260805260206080f3`.
+- The bytecode sequence should therefore be (which has a runtime opcode of 10 bytes).
+```
+604260105260206010F3
+```
+
+#### Initialisation Bytecode
+
