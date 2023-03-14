@@ -1,11 +1,11 @@
 # Solidity Smart Contract Hacking and Exploits
 This Repo contains *Vulnerablity Analysis* and *Exploit Demonstations* on the following:
-- [**OpenZeppelin's Ethernaut**](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#ethernaut) CTF Levels:
-- [**DamnVulnerableDefi**](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#damnvulnerabledefi) (more complex) CTF Levels
+- **OpenZeppelin's Ethernaut** CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#ethernaut):
+- **DamnVulnerableDefi** (more complex) CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#damnvulnerabledefi):
 
 *If you're just glancing over this repo, I recomend reading some of the following [Preservation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Preservation), [Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy), [Re-entrancy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Re-entrancy)*
 
-Folder for each level, along with the task, my explanation and my malicious contracts.
+Folder for each level, along with the task, my explanation and my malicious contracts/solution.
 
 Otherwise Reference the level instructions at the following link:
 
