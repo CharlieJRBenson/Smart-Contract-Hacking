@@ -73,4 +73,34 @@ Level - Difficulty - Name
 
 ### DamnVulnerableDefi:
 
+Level - Name
 
+[1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[8 - Puppet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[9 - Puppet V2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[10 - Free Rider ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[11 - Backdoor ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[12 - Climber ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[13 - Wallet Mining ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[14 - Puppet V3 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
+
+[15 - ABI Smuggling ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
