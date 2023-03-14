@@ -1,5 +1,7 @@
 # Solidity Smart Contract Hacking and Exploits
-### OpenZeppelin's Ethernaut Smart Contract Security Levels, and **HOW I HACKED THEM**.
+This Repo contains *Vulnerablity Analysis* and *Exploit Demonstations* on the following:
+- [**OpenZeppelin's Ethernaut**](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#levels-and-solutions-below) CTF Levels:
+- [**DamnVulnerableDefi**]() (more complex) CTF Levels
 
 *If you're just glancing over this repo, I recomend reading some of the following [Preservation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Preservation), [Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Privacy), [Re-entrancy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Re-entrancy)*
 
@@ -9,7 +11,7 @@ Otherwise Reference the level instructions at the following link:
 
 [OpenZeppelin Ethernaut Challenges](https://ethernaut.openzeppelin.com/)
 
-### Level's and Solutions below:
+### Ethernaut:
 
 Level - Difficulty - Name
 
