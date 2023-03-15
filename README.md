@@ -13,6 +13,12 @@ Otherwise Reference the level instructions at the following link:
 
 [Damn Vulnerable Challenges](https://www.damnvulnerabledefi.xyz/)
 
+### DamnVulnerableDefi:
+
+Level - Name
+
+[1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Unstoppable)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
@@ -56,8 +62,4 @@ Level - Difficulty - Name
 [19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/AlienCodex)
 
 
-### DamnVulnerableDefi:
 
-Level - Name
-
-[1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Unstoppable)
