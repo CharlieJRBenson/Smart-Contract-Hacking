@@ -53,25 +53,7 @@ Level - Difficulty - Name
 
 [18 - 3/5 - Magic Number ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/MagicNumber)
 
-[19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[20 - 3/5 - Denial ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[21 - 2/5 - Shop ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[22 - 2/5 - Dex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[23 - 2/5 - Dex Two ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[24 - 4/5 - Puzzle Wallet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[25 - 3/5 - Motorbike ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[26 - 2/5 - DoubleEntryPoint ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[27 - 3/5 - Good Samaritan ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
-
-[28 - 3/5 - Gatekeeper Three ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main)
+[19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/AlienCodex)
 
 
 ### DamnVulnerableDefi:
@@ -79,31 +61,3 @@ Level - Difficulty - Name
 Level - Name
 
 [1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Unstoppable)
-
-[2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[8 - Puppet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[9 - Puppet V2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[10 - Free Rider ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[11 - Backdoor ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[12 - Climber ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[13 - Wallet Mining ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[14 - Puppet V3 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
-
-[15 - ABI Smuggling ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/)
