@@ -19,6 +19,8 @@ Level - Name
 
 [1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Unstoppable)
 
+[2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/NaiveReceiver)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
