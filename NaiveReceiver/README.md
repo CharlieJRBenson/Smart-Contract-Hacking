@@ -42,7 +42,10 @@ constructor(
 - Deploy the malicious contract, the malicious action will run in the constructor.
 
 ```
-const NaiveAttackerFactory = await ethers.getContractFactory("NaiveAttacker", attacker);
-    await NaiveAttackerFactory.deploy(this.pool.address, this.receiver.address);
+const ETH = await pool.ETH()
+
+const NaiveReceiverHack = await ethers.getContractFactory("NaiveReceiverHack", player.address)
+
+await NaiveReceiverHack.deploy(pool.address, receiver.address, ETH);
 ```
 
