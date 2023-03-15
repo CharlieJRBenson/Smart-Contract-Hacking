@@ -21,6 +21,8 @@ Level - Name
 
 [2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/NaiveReceiver)
 
+[3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Truster)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
