@@ -4,7 +4,7 @@ pragma solidity ^0.8.0;
 
 import "./NaiveReceiverLenderPool.sol";
 
-contract NaiveAttacker {
+contract NaiveReceiverHack {
     constructor(
         address payable poolAddress,
         address receiverAddress,
