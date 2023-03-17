@@ -23,6 +23,8 @@ Level - Name
 
 [3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Truster)
 
+[4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/SideEntrance)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
