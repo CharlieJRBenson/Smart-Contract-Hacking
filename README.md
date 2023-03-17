@@ -25,6 +25,8 @@ Level - Name
 
 [4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/SideEntrance)
 
+[5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/TheRewarder)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
