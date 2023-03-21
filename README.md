@@ -27,6 +27,8 @@ Level - Name
 
 [5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/TheRewarder)
 
+[6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Selfie)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
