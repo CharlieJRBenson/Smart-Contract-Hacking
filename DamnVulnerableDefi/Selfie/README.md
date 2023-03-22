@@ -15,6 +15,10 @@
 
 - That seems like the focus immediately - Find a way to break the governance to call this function with my address.
 
+- To queue an action in the gov contract I need more than 50% of the token total supply.
 
+- Fortunately the flashloan pool holds the same token as used for governance, and the pool holds >50% of the total supply. (1,500,000 / 2,000,000).
+
+- So we should just be able to create a contract to flashloan the maximum, queue a governance action, then repay the flashloan.
 
 ### Steps 
