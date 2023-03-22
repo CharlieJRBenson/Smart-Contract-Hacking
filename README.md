@@ -1,4 +1,4 @@
-# Solidity Smart Contract Hacking and Exploits
+# Solidity Smart Contract Exploit Demonstations in Popular CTF Challenges
 This Repo contains *Vulnerablity Analysis* and *Exploit Demonstations* on the following:
 - **OpenZeppelin's Ethernaut** CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#ethernaut):
 - **DamnVulnerableDefi** (more complex) CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#damnvulnerabledefi):
