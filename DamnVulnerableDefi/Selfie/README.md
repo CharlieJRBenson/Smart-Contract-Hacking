@@ -9,4 +9,12 @@
 
 ### Observations
 
+- Looks like a solid flashloan pool at the moment, but it inherits and utilises a fancy governance mechanism to execute transactions and function calls.
+
+- There is a strange function `emergencyExit(address)` which sends the pools total funds to the address, as long as the cool came from the governance contract.
+
+- That seems like the focus immediately - Find a way to break the governance to call this function with my address.
+
+
+
 ### Steps 
