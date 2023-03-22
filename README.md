@@ -3,7 +3,7 @@ This Repo contains *Vulnerablity Analysis* and *Exploit Demonstations* on the fo
 - **OpenZeppelin's Ethernaut** CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#ethernaut):
 - **DamnVulnerableDefi** (more complex) CTF Levels [*here*](https://github.com/CharlieJRBenson/Smart-Contract-Hacking#damnvulnerabledefi):
 
-*If you're just glancing over this repo, I recomend reading some of the following [Preservation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Preservation), [Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Privacy), [Re-entrancy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Re-entrancy)*
+*If you're just glancing over this repo, I recomend reading some of the following [Selfie](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Selfie), [Preservation](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Preservation), [Privacy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Privacy), [Re-entrancy](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/Re-entrancy)*
 
 Folder for each level, along with the task, my explanation and my malicious contracts/solution.
 
