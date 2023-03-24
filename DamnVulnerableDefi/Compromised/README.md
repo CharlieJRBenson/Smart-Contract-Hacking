@@ -23,5 +23,39 @@ server: cloudflare
 
 - If we can manipulate the oracles prices to very small to buy all nft's, then revert the price to usual and sell them back, we can drain the funds from the exchange.
 
+- The hex code returned from the server could potentially be sensitive data.
+
+- Trying to decode it to ascii gives:
+```
+MHhjNjc4ZWYxYWE0NTZkYTY1YzZmYzU4NjFkNDQ4OTJjZGZhYzBjNmM4YzI1NjBiZjBjOWZiY2RhZTJmNDczNWE5
+
+MHgyMDgyNDJjNDBhY2RmYTllZDg4OWU2ODVjMjM1NDdhY2JlZDliZWZjNjAzNzFlOTg3NWZiY2Q3MzYzNDBiYjQ4
+```
+
+- That ASCII text looks like base64 encoding. Decoded it becomes:
+```
+0xc678ef1aa456da65c6fc5861d44892cdfac0c6c8c2560bf0c9fbcdae2f4735a9
+
+0x208242c40acdfa9ed889e685c23547acbed9befc60371e9875fbcd736340bb48
+``` 
+- These look like... but can't be... Ethereum address's since they're 32bytes instead of 20bytes. But they can be *PRIVATE KEYS!*
+
+- Using the last 20bytes of the keccak256 hash of those private keys provides there *PUBLIC ADDRESSES* to be:
+```
+0xe92401A4d3af5E446d93D11EEc806b1462b39D15
+
+0x81A5D6E50C214044bE44cA0CB057fe119097850c
+```
+- *A good example of how to do this simply with ethers:*
+
+    ```
+    const wall1 = new ethers.Wallet("0xc678ef1aa456da65c6fc5861d44892cdfac0c6c8c2560bf0c9fbcdae2f4735a9");
+    console.log(wall1.address);
+    ```
+
+- These addresses are the same addresses as two of the price oracles.
+
+- This mean we are able to send transactions on their behalf to manipulate the price data to perform the tasks mentioned in the first observation.
+
 ### Steps
 
