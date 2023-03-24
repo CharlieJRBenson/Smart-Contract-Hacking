@@ -48,12 +48,12 @@ MHgyMDgyNDJjNDBhY2RmYTllZDg4OWU2ODVjMjM1NDdhY2JlZDliZWZjNjAzNzFlOTg3NWZiY2Q3MzYz
 ```
 - *A good example of how to do this simply with ethers:*
 
-    ```
-    const wall1 = new ethers.Wallet("0xc678ef1aa456da65c6fc5861d44892cdfac0c6c8c2560bf0c9fbcdae2f4735a9");
-    console.log(wall1.address);
-    ```
+```
+const wall1 = new ethers.Wallet("0xc678ef1aa456da65c6fc5861d44892cdfac0c6c8c2560bf0c9fbcdae2f4735a9");
+console.log(wall1.address);
+```
 
-- These addresses are the same addresses as two of the price oracles.
+- These addresses are the same addresses as two of the price oracles for the exchange.
 
 - This mean we are able to send transactions on their behalf to manipulate the price data to perform the tasks mentioned in the first observation.
 
