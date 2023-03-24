@@ -29,6 +29,8 @@ Level - Name
 
 [6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Selfie)
 
+[7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Compromised)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
