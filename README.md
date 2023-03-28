@@ -31,6 +31,10 @@ Level - Name
 
 [7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Compromised)
 
+[8 - Puppet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Puppet)
+
+[9 - PuppetV2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/PuppetV2)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
