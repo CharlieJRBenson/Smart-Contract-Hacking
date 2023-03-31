@@ -19,7 +19,8 @@
 - Then send it to the `FreeRiderRecovery` contract to receive the reward payout.
 - Only one problem, we dont have the ETH to pay the price of 1 NFT.
 - So we can do all of this in one transaction using a UniswapV2 flash swap.
-- Borrow 15WETH for tokens (which we dont yet have), unwrap it, purchase ALL nfts, send them to reward contract, swap eth for tokens, repay tokens. 
+- Borrow 15WETH (which we dont yet have), unwrap it, purchase ALL nfts, send them to reward contract, swap wrap rewarded eth, repay weth loan. 
+- Profit about 30ETH
 
 ### Steps
 
