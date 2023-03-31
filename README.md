@@ -35,6 +35,8 @@ Level - Name
 
 [9 - PuppetV2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/PuppetV2)
 
+[9 - PuppetV2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/FreeRider)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
