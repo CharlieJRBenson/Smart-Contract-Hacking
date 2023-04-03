@@ -37,6 +37,8 @@ Level - Name
 
 [10 - Free Rider ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/FreeRider)
 
+[11 - Backdoor ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Backdoor)
+
 ### Ethernaut:
 
 Level - Difficulty - Name
