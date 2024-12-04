@@ -13,31 +13,6 @@ Otherwise Reference the level instructions at the following link:
 
 [Damn Vulnerable Challenges](https://www.damnvulnerabledefi.xyz/)
 
-### DamnVulnerableDefi:
-
-Level - Name
-
-[1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Unstoppable)
-
-[2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/NaiveReceiver)
-
-[3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Truster)
-
-[4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/SideEntrance)
-
-[5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/TheRewarder)
-
-[6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Selfie)
-
-[7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Compromised)
-
-[8 - Puppet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Puppet)
-
-[9 - PuppetV2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/PuppetV2)
-
-[10 - Free Rider ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/FreeRider)
-
-[11 - Backdoor ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Backdoor)
 
 ### Ethernaut:
 
@@ -82,4 +57,28 @@ Level - Difficulty - Name
 [19 - 4/5 - Alien Codex ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/Ethernaut/AlienCodex)
 
 
+### DamnVulnerableDefi:
 
+Level - Name
+
+[1 - Unstoppable ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Unstoppable)
+
+[2 - Naive Receiver ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/NaiveReceiver)
+
+[3 - Truster ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Truster)
+
+[4 - Side Entrance ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/SideEntrance)
+
+[5 - The Rewarder ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/TheRewarder)
+
+[6 - Selfie ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Selfie)
+
+[7 - Compromised ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Compromised)
+
+[8 - Puppet ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Puppet)
+
+[9 - PuppetV2 ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/PuppetV2)
+
+[10 - Free Rider ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/FreeRider)
+
+[11 - Backdoor ✅](https://github.com/CharlieJRBenson/SmartContractHacking/tree/main/DamnVulnerableDefi/Backdoor)
